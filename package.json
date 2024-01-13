@@ -1,0 +1,21 @@
+{
+  "name": "ayu-dark-purple",
+  "displayName": "Ayu Dark Purple",
+  "description": "Ayu Dark Theme with Purple",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ayu Dark Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ayu Dark Purple-color-theme.json"
+      }
+    ]
+  }
+}
