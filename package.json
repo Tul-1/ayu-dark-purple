@@ -3,6 +3,7 @@
   "displayName": "Ayu Dark Purple",
   "description": "Ayu Dark Theme with Purple",
   "repository": "https://github.com/Tul-1/ayu-dark-purple",
+  "keywords": ["Ayu", "Dark", "Purple", "Theme"],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
